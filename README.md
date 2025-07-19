@@ -17,11 +17,6 @@ Key components:
 - K-means clustering for severity estimation
 - Grad-CAM for visual explainability
 
-## Team Members
-
-- Md Sabbir Dewan (35254922)
-- Pelden Wangmo (34870942)
-- Shivani Banala (34783671)
 
 ## Objectives
 
